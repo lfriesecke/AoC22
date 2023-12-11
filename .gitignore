@@ -1,0 +1,3 @@
+# ignore aoc input and python generated files:
+*.txt
+*/__pycache__/*
